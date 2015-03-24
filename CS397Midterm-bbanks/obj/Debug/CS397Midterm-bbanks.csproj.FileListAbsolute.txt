@@ -1,0 +1,6 @@
+C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CS397Midterm-bbanks\CS397Midterm-bbanks\bin\CS397Midterm-bbanks.dll.config
+C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CS397Midterm-bbanks\CS397Midterm-bbanks\bin\CS397Midterm-bbanks.dll
+C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CS397Midterm-bbanks\CS397Midterm-bbanks\bin\CS397Midterm-bbanks.pdb
+C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CS397Midterm-bbanks\CS397Midterm-bbanks\obj\Debug\CS397Midterm-bbanks.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CS397Midterm-bbanks\CS397Midterm-bbanks\obj\Debug\CS397Midterm-bbanks.dll
+C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CS397Midterm-bbanks\CS397Midterm-bbanks\obj\Debug\CS397Midterm-bbanks.pdb
