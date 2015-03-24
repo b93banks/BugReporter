@@ -17,4 +17,4 @@ Concepts used in this project
 
 =====
 
-Questions or comments? Email me at b93banks@gmail.com
+Questions or comments? Please feel free to email me at b93banks@gmail.com
